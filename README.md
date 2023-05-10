@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![]([https://thumbs.gfycat.com/DimpledChubbyLamprey-max-1mb.gif](https://media3.giphy.com/media/wUtFYZDA4sZwI/giphy.gif?cid=ecf05e47id379ge8ij6s0kwmaajzsz9te5dtcb70gshvyrxs&rid=giphy.gif&ct=g))
+![alt text](https://github.com/sahilsao/sahilsao.github.io/blob/main/assets/img/dev.jpg)
 
 <!--
 **sahilsao/sahilsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
