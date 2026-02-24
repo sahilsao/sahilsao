@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/sahilsao/sahilsao.github.io/blob/main/assets/img/dev.jpg)
+![alt text](https://github.com/sahilsao/sahilsao.github.io/blob/main/assets/img/ASP-NETCORE-DEVELOPER.png)
 <!--
 ### Hi there 👋 
 **sahilsao/sahilsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
